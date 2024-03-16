@@ -52,6 +52,11 @@ body {
   justify-self: center;
 }
 
+ul.spinner {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
 /* сектор колеса */
 .spinner {
   /* добавляем относительное позиционирование */
